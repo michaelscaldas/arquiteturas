@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="FvCrwmMatGU7lO2Wygau">
-    <mxGraphModel dx="1896" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
         <mxCell id="45w0jg5CsSB1u9m2k4dV-95" value="natura_checkpoint" style="text;strokeColor=none;align=center;fillColor=#CCFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;sketch=1;curveFitting=1;jiggle=2;shadow=0;" parent="0mxSXLDv61dO5nOsBy-u-8" vertex="1">
           <mxGeometry x="369.49480143206677" y="357.953233628304" width="157.0380304936207" height="35.80322438022459" as="geometry" />
         </mxCell>
-        <mxCell id="45w0jg5CsSB1u9m2k4dV-96" value="natura_delivery" style="text;strokeColor=none;align=center;fillColor=#FFCCCC;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="0mxSXLDv61dO5nOsBy-u-8" vertex="1">
+        <mxCell id="45w0jg5CsSB1u9m2k4dV-96" value="natura-delivery.py" style="text;strokeColor=none;align=center;fillColor=#FFCCCC;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="0mxSXLDv61dO5nOsBy-u-8" vertex="1">
           <mxGeometry x="268.4721974482673" y="582.2626334667532" width="158.30446622340793" height="35.80322438022459" as="geometry" />
         </mxCell>
         <mxCell id="45w0jg5CsSB1u9m2k4dV-97" value="process" style="text;strokeColor=none;align=center;fillColor=#FFF2CC;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="0mxSXLDv61dO5nOsBy-u-8" vertex="1">
